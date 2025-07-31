@@ -16,7 +16,7 @@ This project features a Smart Fan system built using an STM32 microcontroller. T
 - Designed for easy future firmware updates and feature expansion
 
 ### Demo
-[![Watch the Smart Fan demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
+[![Watch the Smart Fan demo](https://img.youtube.com/vi/yQ5AVcrKUEM/0.jpg)](https://youtube.com/shorts/yQ5AVcrKUEM?feature=share)  
 *Click the image to watch the demo on YouTube.*
 
 ### Thought Process
